@@ -49,5 +49,5 @@ An intelligent **AI-powered virtual assistant** designed to perform tasks such a
 
 🙌 Author
 Harish K
-📫 Email: (optional)
+📫 Email: (harishhatrics7@gmail.com)
 
